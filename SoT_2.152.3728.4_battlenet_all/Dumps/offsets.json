@@ -1,0 +1,45 @@
+{
+  "game_version": "2.152.3728.4",
+  "module_base": "0x140000000",
+  "GNames_rva": "0x98047a8",
+  "GObjects_rva": "0x9808d98",
+  "object_count": 207673,
+  "ProcessEvent_vtable_index": 55,
+  "ProcessEvent_rva": "0x25ab970",
+  "uobject": {
+    "class": 8,
+    "flags": 16,
+    "index": 20,
+    "outer": 24,
+    "name": 32,
+    "size": 40
+  },
+  "fname": {
+    "layout": "{int32 Number; int32 Index}",
+    "entry_index": 8,
+    "entry_name": 12,
+    "chunk": 16384
+  },
+  "ustruct": {
+    "super": 48,
+    "children": 56,
+    "size": 64
+  },
+  "uproperty": {
+    "flags": 56,
+    "array_dim": 64,
+    "element_size": 70,
+    "offset": 72
+  },
+  "ufunction": {
+    "flags": 136,
+    "native": 176
+  },
+  "counts": {
+    "classes": 12310,
+    "structs": 9466,
+    "enums": 1498,
+    "functions": 10023,
+    "class_files": 765
+  }
+}
